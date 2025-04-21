@@ -1,1 +1,2 @@
 # shortest-path
+This project is a simple C program that builds a graph from a list of cities and their distances, allowing the user to find the shortest path between two cities using Dijkstra’s algorithm and Breadth-First Search (BFS). The program reads the city data from a text file, provides an interactive menu for input, and displays the route along with the total distance. It also offers the option to save the shortest path and its total cost to an output file for easy reference.
